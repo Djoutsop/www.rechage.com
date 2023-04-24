@@ -1,0 +1,23 @@
+.{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+}
+.bloc{
+	width: 400px;
+	height: 200%;
+	margin: 0 auto;
+	background-color: none;
+	transition: 1px;
+}
+
+
+
+
+@media screen and(max-width: 1499px)
+{
+.bloc{
+	width: 1499px;
+}
+}
